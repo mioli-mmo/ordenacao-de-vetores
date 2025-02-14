@@ -81,6 +81,6 @@ int main(int argc, char** argv) {
     std::cerr << "\033[0;31mErro:\033[0m Array não ordenado. Saindo...\n";
     exit(-1);
   }
-  // imprime_array(a,n);
+  imprime_array(a,n);
   return 0;
 }
