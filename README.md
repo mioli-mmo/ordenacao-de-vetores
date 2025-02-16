@@ -5,4 +5,4 @@ Os algoritmos de ordenação são usados para rearranjar uma lista de elementos 
 
 Neste experimento, 3 métodos foram analisados: a) ordenação por seleção; b) ordenação por inserção e c) merge sort. Cada método contém uma explicação do seu conceito básico, o código correspondente em C++, seu grau de complexidade em notação Big-OH e as observações sobre o algoritmo.
 
-Caso deseje testar o programa você mesmo, as instruções estão em "Instrucoes_gerais.txt" e os testes na pasta "Testes".
+Caso deseje testar o programa você mesmo, as instruções estão em "Instrucoes_gerais.txt" e os testes no arquivo "testes.zip".
